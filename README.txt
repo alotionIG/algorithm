@@ -1,5 +1,6 @@
 # algorithm
 variety of basic algorithm which is used in some projects
+#----------------------
 
 #----------------------
 thanks for Bruno Stecanella in his blog here: https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
