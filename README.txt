@@ -22,7 +22,7 @@ save it with "data_file.txt" as file name
 
 at the end of every sentence we add an additional character. It aim to use for clasifying the data set with the code
 for the screenshoot of the result is shown here:
-
+https://www.youtube.com/watch?v=bgq9dXZOqFc
 
 hopely would be useful
 
