@@ -24,5 +24,5 @@ at the end of every sentence we add an additional character. It aim to use for c
 for the screenshoot of the result is shown here:
 https://www.youtube.com/watch?v=bgq9dXZOqFc
 
-hopely would be useful
+hope fully it would be useful
 
