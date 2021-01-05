@@ -3,7 +3,7 @@ variety of basic algorithm which is used in some projects
 #----------------------
 
 #----------------------
-thanks for Bruno Stecanella in his blog here: https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+thanks for Bruno Stecanella's blog whick can be accessed it here: https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 Our code just supported by his dataset about sport
 this is a simple code using python for implement the naive bayes algorithm 
 your comment and suggestion will be apreciate
