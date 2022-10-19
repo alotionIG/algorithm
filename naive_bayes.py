@@ -1,3 +1,7 @@
+'''
+GPL3.0 License
+'''
+
 import numpy as np
 from joblib import dump, load 
 
