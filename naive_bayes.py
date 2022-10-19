@@ -1,5 +1,5 @@
 '''
-GPL3.0 License
+GPL3.0 License new update 19102022
 '''
 
 import numpy as np
